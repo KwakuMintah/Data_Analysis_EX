@@ -1,0 +1,627 @@
+H
+1542173	CIF	H	I 2 3	5.21; 5.21; 5.21
+90; 90; 90	141.421	Barrett, C. S.; Meyer, L.; Wassermann, J.
+Crystal structure of solid hydrogen and deuterium, and of neon-hydrogen and neon-deuterium mixtures
+Journal of Chemical Physics, 1966, 45, 834-837
+
+He
+9011636	CIF	He	F m -3 m	4.242; 4.242; 4.242
+90; 90; 90	76.333	Schuch, A. F.; Mills, R. L.
+New allotropic form of He3 Sample: at T = 18.76 K & P = .171 GPa
+Physical Review Letters, 1961, 6, 596-597
+
+Li
+9008542	CIF	Li	I m -3 m	3.5093; 3.5093; 3.5093
+90; 90; 90	43.218	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 293 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Be
+9012007	CIF	Be	P 63/m m c	2.2858; 2.2858; 3.5842
+90; 90; 120	16.218	Gordon, P.
+A high temperature precision X-ray camera: some measurements of the thermal coefficients of expansion of beryllium Sample: at T = 24 C
+Journal of Applied Physics, 1949, 20, 908-917
+
+B
+9013419	CIF	B	P n n m	5.0576; 5.6245; 6.9884
+90; 90; 90	198.795	Zarechnaya, E. Y.; Dubrovinsky, L.; Dubrovinskaia, N.; Filinchuk, Y.; Chernyshov, D.; Dmitriev, V.; Miyajima, N.; El Goresy, A.; Braun, H. F.; Van Smaalen, S.; Kantor, I.; Kantor, A.; Prakapenka, V.; Hanfland, M.; Mikhaylushkin, A. S.; Abrikosov, I. A.; Simak, S. I.
+Superhard semiconducting optically transparent high pressure phase of boron Note: crystal quenched from 20 GPa, 1700 K
+Physical Review Letters, 2009, 102, 185501-1185501-4
+
+C
+9011577	CIF	C	P 63/m m c	2.464; 2.464; 6.711
+90; 90; 120	35.286	Trucano, P.; Chen, R.
+Structure of graphite by neutron diffraction Note: natural crystals
+Nature, 1975, 258, 136-137
+
+N
+9012479	CIF	N2	P 63/m m c	3.861; 3.861; 6.265
+90; 90; 120	80.882	Schuch, A. F.; Mills, R. L.
+Crystal structures of the three modifications of nitrogen 14 and nitrogen 15 at high pressure Sample: at T = 49 K and P = .4180 GPa Note: beta phase
+Journal of Chemical Physics, 1970, 52, 6000-6008
+
+O
+1528336	CIF	O2	C 1 2/m 1	5.403; 3.429; 5.086
+90; 132.53; 90	69.439	Barrett, C.S.; Meyer, L.; Wasserman, J.
+Antiferromagnetic and crystal structures of alpha-oxygen
+Journal of Chemical Physics, 1967, 47, 592-597
+
+F
+1527921	CIF	F2	C 1 2/c 1	5.5; 3.28; 7.28
+90; 90; 90	131.331	Pauling, L.; Keaveny, I.; Robinson, A.B.
+The crystal structure of alpha-fluorine
+Journal of Solid State Chemistry, 1970, 2, 225-227
+
+Ne
+9008475	CIF	Ne	F m -3 m	4.429; 4.429; 4.429
+90; 90; 90	86.879	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 4.2 K Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Na
+9008545	CIF	Na	I m -3 m	4.2906; 4.2906; 4.2906
+90; 90; 90	78.987	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 293 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Mg
+9008506	CIF	Mg	P 63/m m c	3.20927; 3.20927; 5.21033
+90; 90; 120	46.474	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Al
+9008460	CIF	Al	F m -3 m	4.04958; 4.04958; 4.04958
+90; 90; 90	66.409	Wyckoff R W G
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Si
+2104737	CIF
+Paper	Si	F d -3 m	5.43096; 5.43096; 5.43096
+90; 90; 90	160.188	Elliot, Alexander Dean
+Structure of pyrrhotite 5<i>C</i> (Fe~9~S~10~)
+Acta Crystallographica Section B, 2010, 66, 271-279
+
+P
+9013110	CIF	P4	P -1	11.45; 5.503; 11.261
+71.84; 90.37; 71.56	635.231	Simon, A.; Borrmann, H.; Craubner, H.
+Crystal structure of ordered white phosphorus (β-P) Sample: at T = 158.15 K Note: beta phase; transforms from alpha phase at T = 196.75 K
+Phosphorus and Sulfur and the Related Elements, 1987, 30, 507-510
+
+S
+2310804	CIF	S8	F d d d :2	10.437; 12.845; 24.369
+90; 90; 90	3266.99	Abrahams, S.C.
+The crystal and molecular structure of orthorhombic sulphur
+Acta Crystallographica (1,1948-23,1967), 1955, 8, 661-671
+
+Cl
+9013122	CIF	Cl2	C m c e	6.2235; 4.4561; 8.1785
+90; 90; 90	226.811	Powell, B. M.; Heal, K. M.; Torrie, B. H.
+The temperature dependence of the crystal structures of the solid halogens, bromine and chlorine Locality: synthetic Sample: at T = 100 K
+Molecular Physics, 1984, 53, 929-939
+
+Ar
+9008462	CIF	Ar	F m -3 m	5.256; 5.256; 5.256
+90; 90; 90	145.2	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 4.2 K Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+K
+9011970	CIF	K	I m -3 m	5.328; 5.328; 5.328
+90; 90; 90	151.249	Liu, L.
+Compression and polymorphism of potassium to 400 Kbar Sample: bcc at P = 0 GPa
+Journal of Physics and Chemistry of Solids, 1986, 47, 1067-1072
+
+Ca
+9011033	CIF	Ca	F m -3 m	5.5884; 5.5884; 5.5884
+90; 90; 90	174.527	Bernstein, B. T.; Smith, J. F.
+Coefficients of thermal expansion for face-centered cubic and body-centered cubic calcium Sample: at T = 26 C
+Acta Crystallographica, 1959, 12, 419-420
+
+Sc
+9008514	CIF	Sc	P 63/m m c	3.309; 3.309; 5.2733
+90; 90; 120	50.004	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ti
+9008517	CIF	Ti	P 63/m m c	2.95; 2.95; 4.686
+90; 90; 120	35.316	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+V
+1506411	CIF	V	I m -3 m	3.0273; 3.0273; 3.0273
+90; 90; 90	27.744	Colligan, Marek; Lee, Yongjae; Vogt, Thomas; Celestian, Aaron J.; Parise, John B.; Marshall, William G.; Hriljac, Joseph A.
+High-pressure neutron diffraction study of superhydrated natrolite.
+The journal of physical chemistry. B, 2005, 109, 18223-18225
+
+Cr
+9011598	CIF	Cr	I m -3 m	2.91; 2.91; 2.91
+90; 90; 90	24.642	Hull, A. W.; Davey, W. P.
+Crystal structure of chromium
+Physical Review, 1919, 14, 540-540
+
+Mn
+9011068	CIF	Mn	I -4 3 m	8.9125; 8.9125; 8.9125
+90; 90; 90	707.944	Gazzara, C. P.; Middleton, R. M.; Weiss, R. J.; Hall, E. O.
+A refinement of the parameters of alpha manganese Localilty: synthetic Sample: at T = 298K
+Acta Crystallographica, 1967, 22, 859-862
+
+Fe
+9008536	CIF	Fe	I m -3 m	2.8665; 2.8665; 2.8665
+90; 90; 90	23.554	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 298 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Co
+9008492	CIF	Co	P 63/m m c	2.5071; 2.5071; 4.0686
+90; 90; 120	22.147	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ni
+9008476	CIF	Ni	F m -3 m	3.52387; 3.52387; 3.52387
+90; 90; 90	43.758	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Cu
+9008468	CIF	Cu	F m -3 m	3.61496; 3.61496; 3.61496
+90; 90; 90	47.24	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Zn
+9008522	CIF	Zn	P 63/m m c	2.6648; 2.6648; 4.9467
+90; 90; 120	30.421	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ga
+8104301	CIF	Ga	C m c a	4.5167; 7.6448; 4.5107
+90; 90; 90	155.751	Bradley, A.J.
+The crystal structure of gallium
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik, Kristallchemie (-144,1977), 1935, 91, 302-316
+
+Ge
+1563567	CIF	Ge	F d -3 m :2	5.6575; 5.6575; 5.6575
+90; 90; 90	181.08	Beekman, M.; Stefanoski, S.; Wong-Ng, W.; Kaduk, J.A.; Huang, Q.; Reeg, C.; Bowers, C.R.; Nolas, G.S.
+Structure and thermal conductivity of Na1−Ge3+
+Journal of Solid State Chemistry, 2010, 183, 1272-1277
+
+As
+9009652	CIF	As	R -3 m :H	3.7598; 3.7598; 10.5475
+90; 90; 120	129.125	Schiferl, D.; Barrett, C. S.
+The crystal structure of arsenic at 4.2, 78 and 299 K Sample: T = 299 K
+Journal of Applied Crystallography, 1969, 2, 30-36
+
+Se
+9011116	CIF	Se8	P 1 21/n 1	9.054; 9.083; 11.601
+90; 90.81; 90	953.942	Cherin, P.; Unger, P.
+Refinement of the crystal structure of alpha-monoclinic Se Sample: at T = 26 C Note: structure known as alpha phase
+Acta Crystallographica, Section B, 1972, 28, 313-317
+
+Br
+9013119	CIF	Br2	C m c e	6.7265; 4.6451; 8.7023
+90; 90; 90	271.906	Powell, B. M.; Heal, K. M.; Torrie, B. H.
+The temperature dependence of the crystal structures of the solid halogens, bromine and chlorine Locality: synthetic Sample: at T = 250 K
+Molecular Physics, 1984, 53, 929-939
+
+Kr
+9008471	CIF	Kr	F m -3 m	5.721; 5.721; 5.721
+90; 90; 90	187.247	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 58 K Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Rb
+9008549	CIF	Rb	I m -3 m	5.585; 5.585; 5.585
+90; 90; 90	174.209	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 5 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Sr
+9008484	CIF	Sr	F m -3 m	6.0847; 6.0847; 6.0847
+90; 90; 90	225.277	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Y
+9008521	CIF	Y	P 63/m m c	3.6474; 3.6474; 5.7306
+90; 90; 120	66.023	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Zr
+9008523	CIF	Zr	P 63/m m c	3.232; 3.232; 5.147
+90; 90; 120	46.562	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Nb
+9008546	CIF	Nb	I m -3 m	3.3004; 3.3004; 3.3004
+90; 90; 90	35.95	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Mo
+9008543	CIF	Mo	I m -3 m	3.1473; 3.1473; 3.1473
+90; 90; 90	31.176	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Tc
+1541062	CIF	Tc	P 63/m m c	2.74; 2.74; 4.398
+90; 90; 120	28.595	Trzebiatowski, W.; Rudzinski, J.
+The composition and structure of technetium nitride and technetium borides
+Journal of the Less-Common Metals, 1964, 6, 244-245
+
+Ru
+9017842	CIF	Ru	P 63/m m c	2.7058; 2.7058; 4.2819
+90; 90; 120	27.149	Mochalov, A. G.; Dmitrenko, G. G.; Rudashevsky, N. S.; Zhernovsky, I. V.; Boldyreva, M. M.
+Hexaferrum (Fe,Ru),(Fe,Os),(Fe,Ir) - a new mineral Note: sample 6-0663
+Zapiski Vserossijskogo Mineralogicheskogo Obshchestva, 1998, 127, 41-51
+
+Rh
+9008482	CIF	Rh	F m -3 m	3.8031; 3.8031; 3.8031
+90; 90; 90	55.006	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pd
+9008478	CIF	Pd	F m -3 m	3.8898; 3.8898; 3.8898
+90; 90; 90	58.855	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ag
+1100136	CIF	Ag	F m -3 m	4.0855; 4.0855; 4.0855
+90; 90; 90	68.2	Spreadborough, J; Christian, J W
+High-temperature X-ray diffractometer
+Journal of Scientific Instruments, 1959, 36, 116-118
+
+Cd
+9008490	CIF	Cd	P 63/m m c	2.97887; 2.97887; 5.61765
+90; 90; 120	43.171	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+In
+1538014	CIF	In	I 4/m m m	3.2542; 3.2542; 4.9542
+90; 90; 90	52.464	Flower, S.C.; Saunders, G.A.
+The elastic behavior of indium under pressure and with temperature uo to the melting point
+Philosophical Magazine, Part B, 1990, 62, 311-328
+
+Sn
+9008568	CIF	Sn	F d -3 m :1	6.4912; 6.4912; 6.4912
+90; 90; 90	273.511	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York
+Crystal Structures, 1963, 1, 7-83
+
+Sb
+5000214	CIF	Sb	R -3 m :H	4.3084; 4.3084; 11.274
+90; 90; 120	181.2	Barrett, C S; Cucka, P; Haefner, K
+The Crystal Structure of Antimony at 4.2, 78 and 298 K
+Acta Crystallographica (1,1948-23,1967), 1963, 16, 451-453
+
+Te
+2310839	CIF	Te	P 31 2 1	4.4572; 4.4572; 5.929
+90; 90; 120	102.008	Cherin, P.; Unger, P.
+Two-dimensional refinement of the crystal structure of tellurium
+Acta Crystallographica (1,1948-23,1967), 1967, 23, 670-671
+
+I
+4511285	CIF	I2	C m c e	7.1589; 4.6915; 9.8014
+90; 90; 90	329.19	Bertolotti, Federica; Shishkina, Anastasia V.; Forni, Alessandra; Gervasio, Giuliana; Stash, Adam I.; Tsirelson, Vladimir G.
+Intermolecular Bonding Features in Solid Iodine
+Crystal Growth & Design, 2014, 14, 3587
+
+Xe
+9012464	CIF	Xe	F m -3 m	6.2023; 6.2023; 6.2023
+90; 90; 90	238.593	Sears, D. R.; Klug, H. P.
+Density and expansivity of solid xenon Sample: at T = 75 K
+Journal of Chemical Physics, 1962, 37, 3002-3006
+
+Cs
+9008533	CIF	Cs	I m -3 m	6.067; 6.067; 6.067
+90; 90; 90	223.317	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 78 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ba
+9008529	CIF	Ba	I m -3 m	5.025; 5.025; 5.025
+90; 90; 90	126.884	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 300 K Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+La
+9008525	CIF	La	P 63/m m c	3.77; 3.77; 12.159
+90; 90; 120	149.662	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Double hexagonal closest packed, dhcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ce
+9008491	CIF	Ce	P 63/m m c	3.65; 3.65; 5.96
+90; 90; 120	68.764	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pr
+9008527	CIF	Pr	P 63/m m c	3.6725; 3.6725; 11.8354
+90; 90; 120	138.241	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Double hexagonal closest packed, dhcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Nd
+9008526	CIF	Nd	P 63/m m c	3.6579; 3.6579; 11.7992
+90; 90; 120	136.725	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Double hexagonal closest packed, dhcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pm
+N/A
+
+Sm
+9010999	CIF	Sm	P 63/m m c	3.621; 3.621; 26.25
+90; 90; 120	298.069	Spedding, F. H.; Daane, A. H.; Herrmann, K. W.
+The crystal structures and lattice parameters of high-purity scandium, yttrium and the rare earth metals Locality: synthetic Note: sample 99% pure
+Acta Crystallographica, 1956, 9, 559-563
+
+Eu
+9008535	CIF	Eu	I m -3 m	4.606; 4.606; 4.606
+90; 90; 90	97.717	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Gd
+9008499	CIF	Gd	P 63/m m c	3.636; 3.636; 5.7826
+90; 90; 120	66.207	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 293 K Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Tb
+9008516	CIF	Tb	P 63/m m c	3.601; 3.601; 5.6936
+90; 90; 120	63.939	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Dy
+9008495	CIF	Dy	P 63/m m c	3.5903; 3.5903; 5.6475
+90; 90; 120	63.045	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at T = 293 K Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ho
+9008502	CIF	Ho	P 63/m m c	3.5773; 3.5773; 5.6158
+90; 90; 120	62.238	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Er
+9008497	CIF	Er	P 63/m m c	3.5588; 3.5588; 5.5874
+90; 90; 120	61.284	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample at 293 K Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Tm
+9008520	CIF	Tm	P 63/m m c	3.5375; 3.5375; 5.5546
+90; 90; 120	60.197	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Yb
+9008487	CIF	Yb	F m -3 m	5.4862; 5.4862; 5.4862
+90; 90; 90	165.126	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Lu
+9008505	CIF	Lu	P 63/m m c	3.5031; 3.5031; 5.5509
+90; 90; 120	58.993	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Hf
+9008501	CIF	Hf	P 63/m m c	3.1967; 3.1967; 5.0578
+90; 90; 120	44.761	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ta
+1541266	CIF	Ta	I m -3 m	3.30256; 3.30256; 3.30256
+90; 90; 90	36.021	Mueller, M. H.
+The lattice parameter of tantalum
+Scripta Metallurgica, 1977, 11, 693-693
+
+W
+9008558	CIF	W	I m -3 m	3.16469; 3.16469; 3.16469
+90; 90; 90	31.695	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Body centered cubic, bcc, structure
+Crystal Structures, 1963, 1, 7-83
+
+Re
+9008512	CIF	Re	P 63/m m c	2.7608; 2.7608; 4.4582
+90; 90; 120	29.428	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Os
+9008510	CIF	Os	P 63/m m c	2.7352; 2.7352; 4.319
+90; 90; 120	27.983	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Hexagonal closest packed, hcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Ir
+9008470	CIF	Ir	F m -3 m	3.8394; 3.8394; 3.8394
+90; 90; 90	56.597	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pt
+9008480	CIF	Pt	F m -3 m	3.9231; 3.9231; 3.9231
+90; 90; 90	60.379	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Au
+9008463	CIF	Au	F m -3 m	4.07825; 4.07825; 4.07825
+90; 90; 90	67.83	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Hg
+1538834	CIF	Hg	R -3 m :R	3.005; 3.005; 3.005
+70.52; 70.52; 70.52	23.351	Mehl, R.F.; Barrett, C.S.
+The system Cd-Hg
+Transactions of the American Institute of Mining, Metallurgical and Petroleum Engineers, 1930, 89, 575-589
+
+Tl
+9008485	CIF	Th	F m -3 m	5.0843; 5.0843; 5.0843
+90; 90; 90	131.43	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pb
+9008477	CIF	Pb	F m -3 m	4.9505; 4.9505; 4.9505
+90; 90; 90	121.324	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Bi
+1539906	CIF	Bi	C 1 2/m 1	6.674; 6.117; 3.304
+90; 110.33; 90	126.483	Brugger, R.M.; Bennion, R.B.; Worlton, T.G.
+The crystal structure of bismuth-II at 26 kbar
+Physics Letters A, 1967, 24, 714-717
+
+Po
+1509138	CIF	Po	P m -3 m	3.345; 3.345; 3.345
+90; 90; 90	37.427	William H. Beamer; Charles R. Maxwell
+Physical Properties of Polonium. II. X-Ray Studies and Crystal Structure
+Journal of Chemical Physics, 1949, 17, 1293-1298
+
+At
+N/A
+
+Rn
+N/A
+
+Fr
+N/A
+
+Ra
+1509139	CIF	Ra	I m -3 m	5.148; 5.148; 5.148
+90; 90; 90	136.432	Weigel, F.; Trinkl, A.
+Zur Kristallchemie des Radiums, III. Darstellung, Kristallstruktur und Atomradius des metallischen Radiums
+Radiochimica Acta, 1968, 10, 78-82
+
+Ac
+9008458	CIF	Ac	F m -3 m	5.311; 5.311; 5.311
+90; 90; 90	149.806	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Th
+9008485	CIF	Th	F m -3 m	5.0843; 5.0843; 5.0843
+90; 90; 90	131.43	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Cubic closest packed, ccp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Pa
+2310022	CIF	Pa	I 4/m m m	3.925; 3.925; 3.238
+90; 90; 90	49.883	W. H. Zachariasen
+Crystal chemical studies of the 5f - series of elements. XVI. Identification and crystal structure of protactinium metal and of protactinium monoxide
+Acta Crystallographica, 1952, 5, 19-21
+
+U
+9008584	CIF	U	C m c m	2.854; 5.869; 4.955
+90; 90; 90	82.997	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York
+Crystal Structures, 1963, 1, 7-83
+
+Np
+9008585	CIF	Np	P m c n	4.723; 4.887; 6.663
+90; 90; 90	153.791	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Sample is stable at room conditions
+Crystal Structures, 1963, 1, 7-83
+
+Pu
+1525989	CIF	Pu	P 1 21/m 1	6.18595; 4.82598; 10.9719
+90; 101.787; 90	320.64	Espinosa, F.J.; Villella, P.; Cox, L.E.; Conradson, S.D.; Terry, J.; Lashley, J.C.; Martinez, R.; Morales, L.; Pereyra, R.A.
+Local atomic structure of alpha-Pu
+Physical Review, Serie 3. B - Condensed Matter (18,1978-), 2001, 63, 1741111-1741118
+
+Am
+9008524	CIF	Am	P 63/m m c	3.474; 3.474; 11.25
+90; 90; 120	117.583	Wyckoff, R. W. G.
+Second edition. Interscience Publishers, New York, New York Double hexagonal closest packed, dhcp, structure
+Crystal Structures, 1963, 1, 7-83
+
+Cm
+N/A
+
+Bk
+N/A
+
+Cf
+N/A
+
+Es
+N/A
+
+Fm
+N/A
+
+Md
+N/A
+
+No
+N/A
+
+Lr
+N/A
+
+Rf
+N/A
+
+Db
+N/A
+
+Sg
+N/A
+
+Bh
+N/A
+
+Hs
+N/A
+
+Mt
+N/A
+
+Ds
+N/A
+
+Rg
+N/A
+
+Cn
+N/A
+
+Nh
+N/A
+
+Fl
+N/A
+
+Mc
+N/A
+
+Lv
+N/A
+
+Ts
+N/A
+
+Og
+N/A

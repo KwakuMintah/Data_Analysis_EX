@@ -1,0 +1,160 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-05-16 09:36:09 +0300 (Thu, 16 May 2024) $
+#$Revision: 291877 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/19/9011970.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9011970
+loop_
+_publ_author_name
+'Liu, L.'
+_publ_section_title
+;
+ Compression and polymorphism of potassium to 400 Kbar
+ Sample: bcc at P = 0 GPa
+;
+_journal_name_full               'Journal of Physics and Chemistry of Solids'
+_journal_page_first              1067
+_journal_page_last               1072
+_journal_paper_doi               10.1016/0022-3697(86)90073-9
+_journal_volume                  47
+_journal_year                    1986
+_chemical_compound_source        Synthetic
+_chemical_formula_sum            K
+_chemical_name_common            Potassium
+_chemical_name_mineral           Potassium
+_space_group_IT_number           229
+_symmetry_space_group_name_Hall  '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   5.328
+_cell_length_b                   5.328
+_cell_length_c                   5.328
+_cell_formula_units_Z            2
+_cell_volume                     151.249
+_database_code_amcsd             0013214
+_diffrn_ambient_pressure         0
+_exptl_crystal_density_diffrn    0.859
+_cod_original_sg_symbol_H-M      'I m 3 m'
+_cod_database_code               9011970
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+1/2+x,1/2+y,1/2+z
+z,-x,y
+1/2+z,1/2-x,1/2+y
+-y,z,-x
+1/2-y,1/2+z,1/2-x
+x,-y,z
+1/2+x,1/2-y,1/2+z
+-z,x,-y
+1/2-z,1/2+x,1/2-y
+y,-z,x
+1/2+y,1/2-z,1/2+x
+-x,y,-z
+1/2-x,1/2+y,1/2-z
+x,-z,-y
+1/2+x,1/2-z,1/2-y
+-z,y,x
+1/2-z,1/2+y,1/2+x
+y,-x,-z
+1/2+y,1/2-x,1/2-z
+-x,z,y
+1/2-x,1/2+z,1/2+y
+z,-y,-x
+1/2+z,1/2-y,1/2-x
+-y,x,z
+1/2-y,1/2+x,1/2+z
+x,z,y
+1/2+x,1/2+z,1/2+y
+-z,-y,-x
+1/2-z,1/2-y,1/2-x
+y,x,z
+1/2+y,1/2+x,1/2+z
+-x,-z,-y
+1/2-x,1/2-z,1/2-y
+z,y,x
+1/2+z,1/2+y,1/2+x
+-y,-x,-z
+1/2-y,1/2-x,1/2-z
+z,x,-y
+1/2+z,1/2+x,1/2-y
+-y,-z,x
+1/2-y,1/2-z,1/2+x
+x,y,-z
+1/2+x,1/2+y,1/2-z
+-z,-x,y
+1/2-z,1/2-x,1/2+y
+y,z,-x
+1/2+y,1/2+z,1/2-x
+-x,-y,z
+1/2-x,1/2-y,1/2+z
+-z,x,y
+1/2-z,1/2+x,1/2+y
+y,-z,-x
+1/2+y,1/2-z,1/2-x
+-x,y,z
+1/2-x,1/2+y,1/2+z
+z,-x,-y
+1/2+z,1/2-x,1/2-y
+-y,z,x
+1/2-y,1/2+z,1/2+x
+x,-y,-z
+1/2+x,1/2-y,1/2-z
+-x,z,-y
+1/2-x,1/2+z,1/2-y
+z,-y,x
+1/2+z,1/2-y,1/2+x
+-y,x,-z
+1/2-y,1/2+x,1/2-z
+x,-z,y
+1/2+x,1/2-z,1/2+y
+-z,y,-x
+1/2-z,1/2+y,1/2-x
+y,-x,z
+1/2+y,1/2-x,1/2+z
+-x,-z,y
+1/2-x,1/2-z,1/2+y
+z,y,-x
+1/2+z,1/2+y,1/2-x
+-y,-x,z
+1/2-y,1/2-x,1/2+z
+x,z,-y
+1/2+x,1/2+z,1/2-y
+-z,-y,x
+1/2-z,1/2-y,1/2+x
+y,x,-z
+1/2+y,1/2+x,1/2-z
+-z,-x,-y
+1/2-z,1/2-x,1/2-y
+y,z,x
+1/2+y,1/2+z,1/2+x
+-x,-y,-z
+1/2-x,1/2-y,1/2-z
+z,x,y
+1/2+z,1/2+x,1/2+y
+-y,-z,-x
+1/2-y,1/2-z,1/2-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 4575326
+2 AMCSD 0013214

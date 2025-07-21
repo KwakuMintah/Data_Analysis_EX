@@ -1,0 +1,93 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-01-15 11:04:46 +0200 (Wed, 15 Jan 2025) $
+#$Revision: 297323 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/54/21/1542173.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1542173
+loop_
+_publ_author_name
+'Barrett, C. S.'
+'Meyer, L.'
+'Wassermann, J.'
+_publ_section_title
+;
+ Crystal structure of solid hydrogen and deuterium, and of neon-hydrogen
+ and neon-deuterium mixtures
+;
+_journal_coden_ASTM              JCPSA6
+_journal_name_full               'Journal of Chemical Physics'
+_journal_page_first              834
+_journal_page_last               837
+_journal_paper_doi               10.1063/1.1727691
+_journal_volume                  45
+_journal_year                    1966
+_chemical_formula_sum            H
+_space_group_IT_number           197
+_symmetry_space_group_name_Hall  'I 2 2 3'
+_symmetry_space_group_name_H-M   'I 2 3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   5.21
+_cell_length_b                   5.21
+_cell_length_c                   5.21
+_cell_volume                     141.421
+_cod_data_source_file            Barrett_JCPSA6_1966_726.cif
+_cod_data_source_block           H2
+_cod_original_cell_volume        141.4208
+_cod_original_formula_sum        H2
+_cod_original_formula_units_Z    1
+_cod_database_code               1542173
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+x,-y,-z
+-x,y,-z
+z,x,y
+-z,-x,y
+z,-x,-y
+-z,x,-y
+y,z,x
+y,-z,-x
+-y,z,-x
+-y,-z,x
+x+1/2,y+1/2,z+1/2
+-x+1/2,-y+1/2,z+1/2
+x+1/2,-y+1/2,-z+1/2
+-x+1/2,y+1/2,-z+1/2
+z+1/2,x+1/2,y+1/2
+-z+1/2,-x+1/2,y+1/2
+z+1/2,-x+1/2,-y+1/2
+-z+1/2,x+1/2,-y+1/2
+y+1/2,z+1/2,x+1/2
+y+1/2,-z+1/2,-x+1/2
+-y+1/2,z+1/2,-x+1/2
+-y+1/2,-z+1/2,x+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+H1 H 0 0 0 1 0.0
+loop_
+_cod_changelog_entry_id
+_cod_changelog_entry_author
+_cod_changelog_entry_date
+_cod_changelog_entry_text
+1 'Quir\'os, Miguel' 2024-06-05T17:01:20+03:00
+;
+ Z value and formula fixed to values more according to usual chemical
+ conventions.
+;

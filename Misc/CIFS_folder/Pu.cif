@@ -1,0 +1,74 @@
+#------------------------------------------------------------------------------
+#$Date: 2018-09-27 07:13:35 +0300 (Thu, 27 Sep 2018) $
+#$Revision: 211196 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/52/59/1525989.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1525989
+loop_
+_publ_author_name
+'Espinosa, F.J.'
+'Villella, P.'
+'Cox, L.E.'
+'Conradson, S.D.'
+'Terry, J.'
+'Lashley, J.C.'
+'Martinez, R.'
+'Morales, L.'
+'Pereyra, R.A.'
+_publ_section_title
+;
+ Local atomic structure of alpha-Pu
+;
+_journal_name_full
+'Physical Review, Serie 3. B - Condensed Matter (18,1978-)'
+_journal_page_first              1741111
+_journal_page_last               1741118
+_journal_volume                  63
+_journal_year                    2001
+_chemical_formula_sum            Pu
+_space_group_IT_number           11
+_symmetry_space_group_name_Hall  '-P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21/m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 101.787
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   6.18595
+_cell_length_b                   4.82598
+_cell_length_c                   10.9719
+_cell_volume                     320.640
+_citation_journal_id_ASTM        PRBMDO
+_cod_data_source_file            Espinosa_PRBMDO_2001_1885.cif
+_cod_data_source_block           Pu1
+_cod_original_cell_volume        320.6404
+_cod_original_formula_sum        Pu1
+_cod_database_code               1525989
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z
+-x,-y,-z
+x,-y-1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pu5 Pu 0.0314 0.25 0.621 1 0.0
+Pu4 Pu 0.6605 0.25 0.4569 1 0.0
+Pu7 Pu 0.3275 0.25 0.9302 1 0.0
+Pu1 Pu 0.339 0.25 0.1565 1 0.0
+Pu6 Pu 0.4719 0.25 0.6503 1 0.0
+Pu3 Pu 0.1345 0.25 0.3406 1 0.0
+Pu2 Pu 0.7704 0.25 0.1717 1 0.0
+Pu8 Pu 0.8707 0.25 0.8958 1 0.0

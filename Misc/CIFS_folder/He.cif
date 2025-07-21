@@ -1,0 +1,258 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-05-16 09:36:09 +0300 (Thu, 16 May 2024) $
+#$Revision: 291877 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/16/9011636.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9011636
+loop_
+_publ_author_name
+'Schuch, A. F.'
+'Mills, R. L.'
+_publ_section_title
+;
+ New allotropic form of He3
+ Sample: at T = 18.76 K & P = .171 GPa
+;
+_journal_name_full               'Physical Review Letters'
+_journal_page_first              596
+_journal_page_last               597
+_journal_paper_doi               10.1103/PhysRevLett.6.596
+_journal_volume                  6
+_journal_year                    1961
+_chemical_compound_source        Synthetic
+_chemical_formula_sum            He
+_chemical_name_common            Helium
+_chemical_name_mineral           Helium
+_space_group_IT_number           225
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   4.242
+_cell_length_b                   4.242
+_cell_length_c                   4.242
+_cell_formula_units_Z            4
+_cell_volume                     76.333
+_database_code_amcsd             0015271
+_diffrn_ambient_pressure         1.71e+05
+_diffrn_ambient_temperature      18.76
+_exptl_crystal_density_diffrn    0.348
+_cod_original_sg_symbol_H-M      'F m 3 m'
+_cod_database_code               9011636
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,y,1/2+z
+1/2+x,1/2+y,z
+z,-x,y
+z,1/2-x,1/2+y
+1/2+z,-x,1/2+y
+1/2+z,1/2-x,y
+-y,z,-x
+-y,1/2+z,1/2-x
+1/2-y,z,1/2-x
+1/2-y,1/2+z,-x
+x,-y,z
+x,1/2-y,1/2+z
+1/2+x,-y,1/2+z
+1/2+x,1/2-y,z
+-z,x,-y
+-z,1/2+x,1/2-y
+1/2-z,x,1/2-y
+1/2-z,1/2+x,-y
+y,-z,x
+y,1/2-z,1/2+x
+1/2+y,-z,1/2+x
+1/2+y,1/2-z,x
+-x,y,-z
+-x,1/2+y,1/2-z
+1/2-x,y,1/2-z
+1/2-x,1/2+y,-z
+x,-z,-y
+x,1/2-z,1/2-y
+1/2+x,-z,1/2-y
+1/2+x,1/2-z,-y
+-z,y,x
+-z,1/2+y,1/2+x
+1/2-z,y,1/2+x
+1/2-z,1/2+y,x
+y,-x,-z
+y,1/2-x,1/2-z
+1/2+y,-x,1/2-z
+1/2+y,1/2-x,-z
+-x,z,y
+-x,1/2+z,1/2+y
+1/2-x,z,1/2+y
+1/2-x,1/2+z,y
+z,-y,-x
+z,1/2-y,1/2-x
+1/2+z,-y,1/2-x
+1/2+z,1/2-y,-x
+-y,x,z
+-y,1/2+x,1/2+z
+1/2-y,x,1/2+z
+1/2-y,1/2+x,z
+x,z,y
+x,1/2+z,1/2+y
+1/2+x,z,1/2+y
+1/2+x,1/2+z,y
+-z,-y,-x
+-z,1/2-y,1/2-x
+1/2-z,-y,1/2-x
+1/2-z,1/2-y,-x
+y,x,z
+y,1/2+x,1/2+z
+1/2+y,x,1/2+z
+1/2+y,1/2+x,z
+-x,-z,-y
+-x,1/2-z,1/2-y
+1/2-x,-z,1/2-y
+1/2-x,1/2-z,-y
+z,y,x
+z,1/2+y,1/2+x
+1/2+z,y,1/2+x
+1/2+z,1/2+y,x
+-y,-x,-z
+-y,1/2-x,1/2-z
+1/2-y,-x,1/2-z
+1/2-y,1/2-x,-z
+z,x,-y
+z,1/2+x,1/2-y
+1/2+z,x,1/2-y
+1/2+z,1/2+x,-y
+-y,-z,x
+-y,1/2-z,1/2+x
+1/2-y,-z,1/2+x
+1/2-y,1/2-z,x
+x,y,-z
+x,1/2+y,1/2-z
+1/2+x,y,1/2-z
+1/2+x,1/2+y,-z
+-z,-x,y
+-z,1/2-x,1/2+y
+1/2-z,-x,1/2+y
+1/2-z,1/2-x,y
+y,z,-x
+y,1/2+z,1/2-x
+1/2+y,z,1/2-x
+1/2+y,1/2+z,-x
+-x,-y,z
+-x,1/2-y,1/2+z
+1/2-x,-y,1/2+z
+1/2-x,1/2-y,z
+-z,x,y
+-z,1/2+x,1/2+y
+1/2-z,x,1/2+y
+1/2-z,1/2+x,y
+y,-z,-x
+y,1/2-z,1/2-x
+1/2+y,-z,1/2-x
+1/2+y,1/2-z,-x
+-x,y,z
+-x,1/2+y,1/2+z
+1/2-x,y,1/2+z
+1/2-x,1/2+y,z
+z,-x,-y
+z,1/2-x,1/2-y
+1/2+z,-x,1/2-y
+1/2+z,1/2-x,-y
+-y,z,x
+-y,1/2+z,1/2+x
+1/2-y,z,1/2+x
+1/2-y,1/2+z,x
+x,-y,-z
+x,1/2-y,1/2-z
+1/2+x,-y,1/2-z
+1/2+x,1/2-y,-z
+-x,z,-y
+-x,1/2+z,1/2-y
+1/2-x,z,1/2-y
+1/2-x,1/2+z,-y
+z,-y,x
+z,1/2-y,1/2+x
+1/2+z,-y,1/2+x
+1/2+z,1/2-y,x
+-y,x,-z
+-y,1/2+x,1/2-z
+1/2-y,x,1/2-z
+1/2-y,1/2+x,-z
+x,-z,y
+x,1/2-z,1/2+y
+1/2+x,-z,1/2+y
+1/2+x,1/2-z,y
+-z,y,-x
+-z,1/2+y,1/2-x
+1/2-z,y,1/2-x
+1/2-z,1/2+y,-x
+y,-x,z
+y,1/2-x,1/2+z
+1/2+y,-x,1/2+z
+1/2+y,1/2-x,z
+-x,-z,y
+-x,1/2-z,1/2+y
+1/2-x,-z,1/2+y
+1/2-x,1/2-z,y
+z,y,-x
+z,1/2+y,1/2-x
+1/2+z,y,1/2-x
+1/2+z,1/2+y,-x
+-y,-x,z
+-y,1/2-x,1/2+z
+1/2-y,-x,1/2+z
+1/2-y,1/2-x,z
+x,z,-y
+x,1/2+z,1/2-y
+1/2+x,z,1/2-y
+1/2+x,1/2+z,-y
+-z,-y,x
+-z,1/2-y,1/2+x
+1/2-z,-y,1/2+x
+1/2-z,1/2-y,x
+y,x,-z
+y,1/2+x,1/2-z
+1/2+y,x,1/2-z
+1/2+y,1/2+x,-z
+-z,-x,-y
+-z,1/2-x,1/2-y
+1/2-z,-x,1/2-y
+1/2-z,1/2-x,-y
+y,z,x
+y,1/2+z,1/2+x
+1/2+y,z,1/2+x
+1/2+y,1/2+z,x
+-x,-y,-z
+-x,1/2-y,1/2-z
+1/2-x,-y,1/2-z
+1/2-x,1/2-y,-z
+z,x,y
+z,1/2+x,1/2+y
+1/2+z,x,1/2+y
+1/2+z,1/2+x,y
+-y,-z,-x
+-y,1/2-z,1/2-x
+1/2-y,-z,1/2-x
+1/2-y,1/2-z,-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+He 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22423
+2 AMCSD 0015271

@@ -1,0 +1,90 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-05-16 09:36:09 +0300 (Thu, 16 May 2024) $
+#$Revision: 291877 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/31/9013119.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9013119
+loop_
+_publ_author_name
+'Powell, B. M.'
+'Heal, K. M.'
+'Torrie, B. H.'
+_publ_section_title
+;The temperature dependence of the crystal structures of the solid halogens,
+ bromine and chlorine Locality: synthetic Sample: at T = 250 K
+;
+_journal_name_full               'Molecular Physics'
+_journal_page_first              929
+_journal_page_last               939
+_journal_paper_doi               10.1080/00268978400102741
+_journal_volume                  53
+_journal_year                    1984
+_chemical_formula_sum            Br2
+_chemical_name_common            Bromine
+_space_group_IT_number           64
+_space_group_name_Hall           '-C 2ac 2'
+_space_group_name_H-M_alt        'C m c e'
+_symmetry_space_group_name_Hall  '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c e'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   6.7265
+_cell_length_b                   4.6451
+_cell_length_c                   8.7023
+_cell_formula_units_Z            4
+_cell_volume                     271.906
+_diffrn_ambient_temperature      250
+_exptl_crystal_density_diffrn    3.904
+_cod_original_sg_symbol_H-M      'C m c a'
+_cod_database_code               9013119
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2+x,1/2+y,z
+x,1/2-y,1/2+z
+1/2+x,-y,1/2+z
+-x,1/2+y,1/2-z
+1/2-x,+y,1/2-z
+-x,y,z
+1/2-x,1/2+y,z
+x,-y,-z
+1/2+x,1/2-y,-z
+x,1/2+y,1/2-z
+1/2+x,+y,1/2-z
+-x,1/2-y,1/2+z
+1/2-x,-y,1/2+z
+-x,-y,-z
+1/2-x,1/2-y,-z
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br 0.04420 0.03460 0.03410 0.00000 0.00000 -0.00430
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Br 0.00000 0.13490 0.10990 0.03800
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22817
+_database_code_amcsd 0014657
