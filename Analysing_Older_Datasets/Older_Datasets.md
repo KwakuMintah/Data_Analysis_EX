@@ -29,3 +29,6 @@ This is also where you can select the grouping file if you wish to group the spe
 - Regression
 - Xi (requires newest version of Scipy)
 - Weighted Kendall
+
+This is an example of a typical output:
+<img width="1550" height="741" alt="image" src="https://github.com/user-attachments/assets/75d87328-1810-4d47-af5e-dba4bd18bfdc" />
