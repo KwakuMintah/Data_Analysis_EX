@@ -6,14 +6,18 @@ This algorithm searches the internal servers for the nexus and raw file using ju
 
 At the beginning, you provides the script with the runs you would like to analyse alongside the bank you would like to read data from - bank one, two, or both. The script then takes this, confirming whether or not the runs provided are intended to be a range or separate, before the fileSearch algorithm repeats the process on each run until all the data has been collected.
 <img width="246" height="152" alt="choices_one" src="https://github.com/user-attachments/assets/413c327d-d22c-4b44-b8ae-6e96a5980920" />
+
 You can also decide whether or not you would like to fit peaks to the dataset. The default peak fitting algorithm uses scipy find peaks to detect the peak location and lmfit to fit to the data. If the experiment was on a material with a cubic crystal structure, i.e. fcc or bcc, selecting that option will run a function which fits peaks to cubic datasets, much more accurately than the default function. If you already know the peak locations in the d-space, from literature or one of the Manual Peak Fit functions, then you can choose to provide this information to the script.
 
 After this, you can select the experiment being performed in order to obtain the respective parameter for labels, and name the file and HDF the data will be stored in.
 <img width="238" height="188" alt="choices_two" src="https://github.com/user-attachments/assets/6cb56ce8-5b2c-48f0-827e-8254d399db5b" />
+
 You can decide whether or not you would like to see a plot of the data, and in that case, choose its name. If the data has a significant background the option to remove it from the raw data or add it to the fitted peaks is here as well.
 <img width="248" height="222" alt="choices_three" src="https://github.com/user-attachments/assets/e2178010-d24a-4147-86f3-97d34ffcbf9c" />
+
 Finally, if you would like to copy the raw data to your personal files this option is provided.
 <img width="235" height="76" alt="choices_four" src="https://github.com/user-attachments/assets/30bf1a3b-3002-48e2-b78f-387596735b01" />
+
 And if you would like to retrieve the data from your personal files instead of the internal servers, this option is available.
 
 After this, the rest all works in the background to provide data and plots such as these:
