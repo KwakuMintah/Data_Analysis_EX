@@ -1,0 +1,726 @@
+<?xml version="1.0"?>
+<detector-grouping idf-date="1900-01-31T23:59:59" instrument="ENGIN-X">
+	<group ID="0">
+		<detids>200001-200100</detids>
+	</group>
+	<group ID="1">
+		<detids>100001-100010</detids>
+	</group>
+	<group ID="2">
+		<detids>100011-100020</detids>
+	</group>
+	<group ID="3">
+		<detids>100021-100030</detids>
+	</group>
+	<group ID="4">
+		<detids>100031-100040</detids>
+	</group>
+	<group ID="5">
+		<detids>100041-100050</detids>
+	</group>
+	<group ID="6">
+		<detids>100051-100060</detids>
+	</group>
+	<group ID="7">
+		<detids>100061-100070</detids>
+	</group>
+	<group ID="8">
+		<detids>100071-100080</detids>
+	</group>
+	<group ID="9">
+		<detids>100081-100090</detids>
+	</group>
+	<group ID="10">
+		<detids>100091-100100</detids>
+	</group>
+	<group ID="11">
+		<detids>100101-100110</detids>
+	</group>
+	<group ID="12">
+		<detids>100111-100120</detids>
+	</group>
+	<group ID="13">
+		<detids>101001-101010</detids>
+	</group>
+	<group ID="14">
+		<detids>101011-101020</detids>
+	</group>
+	<group ID="15">
+		<detids>101021-101030</detids>
+	</group>
+	<group ID="16">
+		<detids>101031-101040</detids>
+	</group>
+	<group ID="17">
+		<detids>101041-101050</detids>
+	</group>
+	<group ID="18">
+		<detids>101051-101060</detids>
+	</group>
+	<group ID="19">
+		<detids>101061-101070</detids>
+	</group>
+	<group ID="20">
+		<detids>101071-101080</detids>
+	</group>
+	<group ID="21">
+		<detids>101081-101090</detids>
+	</group>
+	<group ID="22">
+		<detids>101091-101100</detids>
+	</group>
+	<group ID="23">
+		<detids>101101-101110</detids>
+	</group>
+	<group ID="24">
+		<detids>101111-101120</detids>
+	</group>
+	<group ID="25">
+		<detids>102001-102010</detids>
+	</group>
+	<group ID="26">
+		<detids>102011-102020</detids>
+	</group>
+	<group ID="27">
+		<detids>102021-102030</detids>
+	</group>
+	<group ID="28">
+		<detids>102031-102040</detids>
+	</group>
+	<group ID="29">
+		<detids>102041-102050</detids>
+	</group>
+	<group ID="30">
+		<detids>102051-102060</detids>
+	</group>
+	<group ID="31">
+		<detids>102061-102070</detids>
+	</group>
+	<group ID="32">
+		<detids>102071-102080</detids>
+	</group>
+	<group ID="33">
+		<detids>102081-102090</detids>
+	</group>
+	<group ID="34">
+		<detids>102091-102100</detids>
+	</group>
+	<group ID="35">
+		<detids>102101-102110</detids>
+	</group>
+	<group ID="36">
+		<detids>102111-102120</detids>
+	</group>
+	<group ID="37">
+		<detids>103001-103010</detids>
+	</group>
+	<group ID="38">
+		<detids>103011-103020</detids>
+	</group>
+	<group ID="39">
+		<detids>103021-103030</detids>
+	</group>
+	<group ID="40">
+		<detids>103031-103040</detids>
+	</group>
+	<group ID="41">
+		<detids>103041-103050</detids>
+	</group>
+	<group ID="42">
+		<detids>103051-103060</detids>
+	</group>
+	<group ID="43">
+		<detids>103061-103070</detids>
+	</group>
+	<group ID="44">
+		<detids>103071-103080</detids>
+	</group>
+	<group ID="45">
+		<detids>103081-103090</detids>
+	</group>
+	<group ID="46">
+		<detids>103091-103100</detids>
+	</group>
+	<group ID="47">
+		<detids>103101-103110</detids>
+	</group>
+	<group ID="48">
+		<detids>103111-103120</detids>
+	</group>
+	<group ID="49">
+		<detids>104001-104010</detids>
+	</group>
+	<group ID="50">
+		<detids>104011-104020</detids>
+	</group>
+	<group ID="51">
+		<detids>104021-104030</detids>
+	</group>
+	<group ID="52">
+		<detids>104031-104040</detids>
+	</group>
+	<group ID="53">
+		<detids>104041-104050</detids>
+	</group>
+	<group ID="54">
+		<detids>104051-104060</detids>
+	</group>
+	<group ID="55">
+		<detids>104061-104070</detids>
+	</group>
+	<group ID="56">
+		<detids>104071-104080</detids>
+	</group>
+	<group ID="57">
+		<detids>104081-104090</detids>
+	</group>
+	<group ID="58">
+		<detids>104091-104100</detids>
+	</group>
+	<group ID="59">
+		<detids>104101-104110</detids>
+	</group>
+	<group ID="60">
+		<detids>104111-104120</detids>
+	</group>
+	<group ID="61">
+		<detids>105001-105010</detids>
+	</group>
+	<group ID="62">
+		<detids>105011-105020</detids>
+	</group>
+	<group ID="63">
+		<detids>105021-105030</detids>
+	</group>
+	<group ID="64">
+		<detids>105031-105040</detids>
+	</group>
+	<group ID="65">
+		<detids>105041-105050</detids>
+	</group>
+	<group ID="66">
+		<detids>105051-105060</detids>
+	</group>
+	<group ID="67">
+		<detids>105061-105070</detids>
+	</group>
+	<group ID="68">
+		<detids>105071-105080</detids>
+	</group>
+	<group ID="69">
+		<detids>105081-105090</detids>
+	</group>
+	<group ID="70">
+		<detids>105091-105100</detids>
+	</group>
+	<group ID="71">
+		<detids>105101-105110</detids>
+	</group>
+	<group ID="72">
+		<detids>105111-105120</detids>
+	</group>
+	<group ID="73">
+		<detids>106001-106010</detids>
+	</group>
+	<group ID="74">
+		<detids>106011-106020</detids>
+	</group>
+	<group ID="75">
+		<detids>106021-106030</detids>
+	</group>
+	<group ID="76">
+		<detids>106031-106040</detids>
+	</group>
+	<group ID="77">
+		<detids>106041-106050</detids>
+	</group>
+	<group ID="78">
+		<detids>106051-106060</detids>
+	</group>
+	<group ID="79">
+		<detids>106061-106070</detids>
+	</group>
+	<group ID="80">
+		<detids>106071-106080</detids>
+	</group>
+	<group ID="81">
+		<detids>106081-106090</detids>
+	</group>
+	<group ID="82">
+		<detids>106091-106100</detids>
+	</group>
+	<group ID="83">
+		<detids>106101-106110</detids>
+	</group>
+	<group ID="84">
+		<detids>106111-106120</detids>
+	</group>
+	<group ID="85">
+		<detids>107001-107010</detids>
+	</group>
+	<group ID="86">
+		<detids>107011-107020</detids>
+	</group>
+	<group ID="87">
+		<detids>107021-107030</detids>
+	</group>
+	<group ID="88">
+		<detids>107031-107040</detids>
+	</group>
+	<group ID="89">
+		<detids>107041-107050</detids>
+	</group>
+	<group ID="90">
+		<detids>107051-107060</detids>
+	</group>
+	<group ID="91">
+		<detids>107061-107070</detids>
+	</group>
+	<group ID="92">
+		<detids>107071-107080</detids>
+	</group>
+	<group ID="93">
+		<detids>107081-107090</detids>
+	</group>
+	<group ID="94">
+		<detids>107091-107100</detids>
+	</group>
+	<group ID="95">
+		<detids>107101-107110</detids>
+	</group>
+	<group ID="96">
+		<detids>107111-107120</detids>
+	</group>
+	<group ID="97">
+		<detids>108001-108010</detids>
+	</group>
+	<group ID="98">
+		<detids>108011-108020</detids>
+	</group>
+	<group ID="99">
+		<detids>108021-108030</detids>
+	</group>
+	<group ID="100">
+		<detids>108031-108040</detids>
+	</group>
+	<group ID="101">
+		<detids>108041-108050</detids>
+	</group>
+	<group ID="102">
+		<detids>108051-108060</detids>
+	</group>
+	<group ID="103">
+		<detids>108061-108070</detids>
+	</group>
+	<group ID="104">
+		<detids>108071-108080</detids>
+	</group>
+	<group ID="105">
+		<detids>108081-108090</detids>
+	</group>
+	<group ID="106">
+		<detids>108091-108100</detids>
+	</group>
+	<group ID="107">
+		<detids>108101-108110</detids>
+	</group>
+	<group ID="108">
+		<detids>108111-108120</detids>
+	</group>
+	<group ID="109">
+		<detids>109001-109010</detids>
+	</group>
+	<group ID="110">
+		<detids>109011-109020</detids>
+	</group>
+	<group ID="111">
+		<detids>109021-109030</detids>
+	</group>
+	<group ID="112">
+		<detids>109031-109040</detids>
+	</group>
+	<group ID="113">
+		<detids>109041-109050</detids>
+	</group>
+	<group ID="114">
+		<detids>109051-109060</detids>
+	</group>
+	<group ID="115">
+		<detids>109061-109070</detids>
+	</group>
+	<group ID="116">
+		<detids>109071-109080</detids>
+	</group>
+	<group ID="117">
+		<detids>109081-109090</detids>
+	</group>
+	<group ID="118">
+		<detids>109091-109100</detids>
+	</group>
+	<group ID="119">
+		<detids>109101-109110</detids>
+	</group>
+	<group ID="120">
+		<detids>109111-109120</detids>
+	</group>
+	<group ID="121">
+		<detids>110001-110010</detids>
+	</group>
+	<group ID="122">
+		<detids>110011-110020</detids>
+	</group>
+	<group ID="123">
+		<detids>110021-110030</detids>
+	</group>
+	<group ID="124">
+		<detids>110031-110040</detids>
+	</group>
+	<group ID="125">
+		<detids>110041-110050</detids>
+	</group>
+	<group ID="126">
+		<detids>110051-110060</detids>
+	</group>
+	<group ID="127">
+		<detids>110061-110070</detids>
+	</group>
+	<group ID="128">
+		<detids>110071-110080</detids>
+	</group>
+	<group ID="129">
+		<detids>110081-110090</detids>
+	</group>
+	<group ID="130">
+		<detids>110091-110100</detids>
+	</group>
+	<group ID="131">
+		<detids>110101-110110</detids>
+	</group>
+	<group ID="132">
+		<detids>110111-110120</detids>
+	</group>
+	<group ID="133">
+		<detids>111001-111010</detids>
+	</group>
+	<group ID="134">
+		<detids>111011-111020</detids>
+	</group>
+	<group ID="135">
+		<detids>111021-111030</detids>
+	</group>
+	<group ID="136">
+		<detids>111031-111040</detids>
+	</group>
+	<group ID="137">
+		<detids>111041-111050</detids>
+	</group>
+	<group ID="138">
+		<detids>111051-111060</detids>
+	</group>
+	<group ID="139">
+		<detids>111061-111070</detids>
+	</group>
+	<group ID="140">
+		<detids>111071-111080</detids>
+	</group>
+	<group ID="141">
+		<detids>111081-111090</detids>
+	</group>
+	<group ID="142">
+		<detids>111091-111100</detids>
+	</group>
+	<group ID="143">
+		<detids>111101-111110</detids>
+	</group>
+	<group ID="144">
+		<detids>111111-111120</detids>
+	</group>
+	<group ID="145">
+		<detids>112001-112010</detids>
+	</group>
+	<group ID="146">
+		<detids>112011-112020</detids>
+	</group>
+	<group ID="147">
+		<detids>112021-112030</detids>
+	</group>
+	<group ID="148">
+		<detids>112031-112040</detids>
+	</group>
+	<group ID="149">
+		<detids>112041-112050</detids>
+	</group>
+	<group ID="150">
+		<detids>112051-112060</detids>
+	</group>
+	<group ID="151">
+		<detids>112061-112070</detids>
+	</group>
+	<group ID="152">
+		<detids>112071-112080</detids>
+	</group>
+	<group ID="153">
+		<detids>112081-112090</detids>
+	</group>
+	<group ID="154">
+		<detids>112091-112100</detids>
+	</group>
+	<group ID="155">
+		<detids>112101-112110</detids>
+	</group>
+	<group ID="156">
+		<detids>112111-112120</detids>
+	</group>
+	<group ID="157">
+		<detids>113001-113010</detids>
+	</group>
+	<group ID="158">
+		<detids>113011-113020</detids>
+	</group>
+	<group ID="159">
+		<detids>113021-113030</detids>
+	</group>
+	<group ID="160">
+		<detids>113031-113040</detids>
+	</group>
+	<group ID="161">
+		<detids>113041-113050</detids>
+	</group>
+	<group ID="162">
+		<detids>113051-113060</detids>
+	</group>
+	<group ID="163">
+		<detids>113061-113070</detids>
+	</group>
+	<group ID="164">
+		<detids>113071-113080</detids>
+	</group>
+	<group ID="165">
+		<detids>113081-113090</detids>
+	</group>
+	<group ID="166">
+		<detids>113091-113100</detids>
+	</group>
+	<group ID="167">
+		<detids>113101-113110</detids>
+	</group>
+	<group ID="168">
+		<detids>113111-113120</detids>
+	</group>
+	<group ID="169">
+		<detids>114001-114010</detids>
+	</group>
+	<group ID="170">
+		<detids>114011-114020</detids>
+	</group>
+	<group ID="171">
+		<detids>114021-114030</detids>
+	</group>
+	<group ID="172">
+		<detids>114031-114040</detids>
+	</group>
+	<group ID="173">
+		<detids>114041-114050</detids>
+	</group>
+	<group ID="174">
+		<detids>114051-114060</detids>
+	</group>
+	<group ID="175">
+		<detids>114061-114070</detids>
+	</group>
+	<group ID="176">
+		<detids>114071-114080</detids>
+	</group>
+	<group ID="177">
+		<detids>114081-114090</detids>
+	</group>
+	<group ID="178">
+		<detids>114091-114100</detids>
+	</group>
+	<group ID="179">
+		<detids>114101-114110</detids>
+	</group>
+	<group ID="180">
+		<detids>114111-114120</detids>
+	</group>
+	<group ID="181">
+		<detids>115001-115010</detids>
+	</group>
+	<group ID="182">
+		<detids>115011-115020</detids>
+	</group>
+	<group ID="183">
+		<detids>115021-115030</detids>
+	</group>
+	<group ID="184">
+		<detids>115031-115040</detids>
+	</group>
+	<group ID="185">
+		<detids>115041-115050</detids>
+	</group>
+	<group ID="186">
+		<detids>115051-115060</detids>
+	</group>
+	<group ID="187">
+		<detids>115061-115070</detids>
+	</group>
+	<group ID="188">
+		<detids>115071-115080</detids>
+	</group>
+	<group ID="189">
+		<detids>115081-115090</detids>
+	</group>
+	<group ID="190">
+		<detids>115091-115100</detids>
+	</group>
+	<group ID="191">
+		<detids>115101-115110</detids>
+	</group>
+	<group ID="192">
+		<detids>115111-115120</detids>
+	</group>
+	<group ID="193">
+		<detids>116001-116010</detids>
+	</group>
+	<group ID="194">
+		<detids>116011-116020</detids>
+	</group>
+	<group ID="195">
+		<detids>116021-116030</detids>
+	</group>
+	<group ID="196">
+		<detids>116031-116040</detids>
+	</group>
+	<group ID="197">
+		<detids>116041-116050</detids>
+	</group>
+	<group ID="198">
+		<detids>116051-116060</detids>
+	</group>
+	<group ID="199">
+		<detids>116061-116070</detids>
+	</group>
+	<group ID="200">
+		<detids>116071-116080</detids>
+	</group>
+	<group ID="201">
+		<detids>116081-116090</detids>
+	</group>
+	<group ID="202">
+		<detids>116091-116100</detids>
+	</group>
+	<group ID="203">
+		<detids>116101-116110</detids>
+	</group>
+	<group ID="204">
+		<detids>116111-116120</detids>
+	</group>
+	<group ID="205">
+		<detids>117001-117010</detids>
+	</group>
+	<group ID="206">
+		<detids>117011-117020</detids>
+	</group>
+	<group ID="207">
+		<detids>117021-117030</detids>
+	</group>
+	<group ID="208">
+		<detids>117031-117040</detids>
+	</group>
+	<group ID="209">
+		<detids>117041-117050</detids>
+	</group>
+	<group ID="210">
+		<detids>117051-117060</detids>
+	</group>
+	<group ID="211">
+		<detids>117061-117070</detids>
+	</group>
+	<group ID="212">
+		<detids>117071-117080</detids>
+	</group>
+	<group ID="213">
+		<detids>117081-117090</detids>
+	</group>
+	<group ID="214">
+		<detids>117091-117100</detids>
+	</group>
+	<group ID="215">
+		<detids>117101-117110</detids>
+	</group>
+	<group ID="216">
+		<detids>117111-117120</detids>
+	</group>
+	<group ID="217">
+		<detids>118001-118010</detids>
+	</group>
+	<group ID="218">
+		<detids>118011-118020</detids>
+	</group>
+	<group ID="219">
+		<detids>118021-118030</detids>
+	</group>
+	<group ID="220">
+		<detids>118031-118040</detids>
+	</group>
+	<group ID="221">
+		<detids>118041-118050</detids>
+	</group>
+	<group ID="222">
+		<detids>118051-118060</detids>
+	</group>
+	<group ID="223">
+		<detids>118061-118070</detids>
+	</group>
+	<group ID="224">
+		<detids>118071-118080</detids>
+	</group>
+	<group ID="225">
+		<detids>118081-118090</detids>
+	</group>
+	<group ID="226">
+		<detids>118091-118100</detids>
+	</group>
+	<group ID="227">
+		<detids>118101-118110</detids>
+	</group>
+	<group ID="228">
+		<detids>118111-118120</detids>
+	</group>
+	<group ID="229">
+		<detids>119001-119010</detids>
+	</group>
+	<group ID="230">
+		<detids>119011-119020</detids>
+	</group>
+	<group ID="231">
+		<detids>119021-119030</detids>
+	</group>
+	<group ID="232">
+		<detids>119031-119040</detids>
+	</group>
+	<group ID="233">
+		<detids>119041-119050</detids>
+	</group>
+	<group ID="234">
+		<detids>119051-119060</detids>
+	</group>
+	<group ID="235">
+		<detids>119061-119070</detids>
+	</group>
+	<group ID="236">
+		<detids>119071-119080</detids>
+	</group>
+	<group ID="237">
+		<detids>119081-119090</detids>
+	</group>
+	<group ID="238">
+		<detids>119091-119100</detids>
+	</group>
+	<group ID="239">
+		<detids>119101-119110</detids>
+	</group>
+	<group ID="240">
+		<detids>119111-119120</detids>
+	</group>
+</detector-grouping>
